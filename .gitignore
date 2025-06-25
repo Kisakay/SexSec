@@ -1,0 +1,6 @@
+node_modules
+test
+bun.lock
+lib
+test.ts
+*.DS_Store

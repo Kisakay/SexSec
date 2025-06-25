@@ -28,5 +28,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kisakay",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kisakay/SexSec.git"
+  },
+  "homepage": "https://github.com/Kisakay/SexSec",
+  "bugs": {
+    "url": "https://github.com/Kisakay/SexSec/issues"
+  }
 }

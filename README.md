@@ -283,7 +283,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🐛 Issues
 
-If you encounter any issues or have feature requests, please file them in the [GitHub Issues](https://github.com/yourusername/sexsec/issues) section.
+If you encounter any issues or have feature requests, please file them in the [GitHub Issues](https://github.com/Kisakay/SexSec/issues) section.
 
 ## 📊 Changelog
 
